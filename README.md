@@ -1,0 +1,3 @@
+- npm start (run calculator in desktop window)
+- npm dist (run electron-builder and compilation in .exe)
+- .exe will be saved in the folder '/dist'
