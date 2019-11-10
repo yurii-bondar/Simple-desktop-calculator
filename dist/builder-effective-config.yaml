@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+appId: Yurii_Bondar
+win:
+  target: nsis
+  icon: build/calc.ico
+electronVersion: 5.0.2
